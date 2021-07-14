@@ -1,10 +1,14 @@
-## Este repositorio comprende el el proyecto del Curso Básico y Avanzado de Java
+## Ejercicios del curso  Java SE Avanzado
 
-Todo está organizado en ramas, a continuación verás la distribución.
+## En este curso se realizaron ejercicios como:
+* aplicación de herencia, polimorfismo, abstacción y encapsulamiento
+* Ahorro de código
+* buenas prácticas de programación 
+* etc...
 
-# Curso Básico Java SE
-Desde la rama **master** hasta **31.MakeReportAllEntities**
-
-# Curso Avanzado Java SE
-Desde la rama **32.AbstractClases** hasta **41.INSERT**
-
+## Las tecnologías utilizadas en el curso fueron:
+```
+ Visual Studio Code
+ Eclipse IDE para Java
+ Java SE 
+```
