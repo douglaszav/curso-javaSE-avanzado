@@ -1,0 +1,8 @@
+.idea
+.settings
+bin/com/anncode/holamundo
+*.classpath
+*project
+*.iml
+*xml
+*class
